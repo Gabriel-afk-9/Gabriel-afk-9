@@ -24,12 +24,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 🎨 Ferramentas de Design
-| Prototipagem | Diagramas |
-|--------------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"> | ![draw.io](https://img.shields.io/badge/-draw.io-FF0000?logo=diagramsdotnet) |
-| **Figma** (UI/UX) | **draw.io** (Arquitetura) |
-
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
