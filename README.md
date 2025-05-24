@@ -39,7 +39,7 @@
 ### ⚙️ Back-end em Aprofundamento  
 - **Node.js** (Express, APIs RESTful)  
 - **Python** (FastAPI, Django, automações)  
-- **Bancos de Dados** (PostgreSQL, MongoDB)  
+- **Bancos de Dados** (MySQL)  
 
 ## 📫 Como me Encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
