@@ -9,7 +9,8 @@
 - 📚 **Estudante dedicado** de Sistemas de Computação na UESPI
 - 🧠 **Sempre aprendendo** e buscando novos desafios
 - 🎯 **Focado** em criar interfaces incríveis e eficientes
-- 💡 **Empenhado** em escrever código limpo e bem documentado
+- 🧩 **Solucionador** de Problemas
+- 💡 **Empenhado** em escrever código limpo e eficiente
 
 ## 🛠️ Tech Stack
 ### 💻 Front-end
@@ -29,9 +30,15 @@
 </div>
 
 ## 🌱 Atualmente Aprendendo
-- Avançando meus conhecimentos em **Next.js**
-- Explorando **TypeScript** mais profundamente
-- Melhorando minhas habilidades em **design responsivo**
+### 🚀 Front-end Avançado
+- **Next.js** (App Router, Server Actions, Otimização)  
+- **TypeScript** (Tipos avançados, Generics, Utility Types)  
+- **Design Responsivo** (Mobile-first, CSS Grid avançado, acessibilidade)  
+
+### ⚙️ Back-end em Aprofundamento  
+- **Node.js** (Express, APIs RESTful)  
+- **Python** (FastAPI, Django, automações)  
+- **Bancos de Dados** (PostgreSQL, MongoDB)  
 
 ## 📫 Como me Encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
@@ -39,4 +46,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
 
 ## 💡 Filosofia
-> "O sucesso é a soma de pequenos esforços repetidos dia após dia." - Robert Collier
+> "Desafio-me diariamente a transformar 'não sei' em 'já domino'."
