@@ -27,7 +27,7 @@
 ## 🎨 Ferramentas de Design
 | Prototipagem | Diagramas |
 |--------------|-----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Diagrams.net_Logo.svg" width="40" alt="draw.io Logo"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"> | ![draw.io](https://img.shields.io/badge/-draw.io-FF0000?logo=diagramsdotnet) |
 | **Figma** (UI/UX) | **draw.io** (Arquitetura) |
 
 ## 📊 GitHub Stats
