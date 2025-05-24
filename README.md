@@ -6,12 +6,17 @@
 </div>
 
 ## 👨‍💻 Sobre Mim
+ Apaixonado por tecnologia e desenvolvimento front-end com um pé no back-end, cursando Sistemas de Computação na UESPI. Dedico-me ao máximo para aprender, desenvolver meus próprios projetos e aprimorar tanto minhas hard skills quanto soft skills, sempre em busca de novos desafios.
+### No meu dia a dia, aplico essa mentalidade através de:
 - 📚 **Estudante dedicado** de Sistemas de Computação na UESPI
 - 🧠 **Sempre aprendendo** e buscando novos desafios
 - 🎯 **Focado** em criar interfaces incríveis e eficientes
 - 🧩 **Solucionador** de Problemas
 - 💡 **Empenhado** em escrever código limpo e eficiente
-
+  
+### 📌 **Objetivos:**
+ Meu objetivo é contribuir para projetos desafiadores que impactem positivamente os usuários, colaborar com outros desenvolvedores trocando conhecimentos e boas práticas, e evoluir minhas habilidades técnicas e interpessoais para me tornar um profissional mais completo.
+ 
 ## 🛠️ Tech Stack
 ### 💻 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
