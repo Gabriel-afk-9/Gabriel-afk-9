@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou Gabriel Lima! 
+# 👋🏽 Olá, eu sou Gabriel Lima! 
 ### Desenvolvedor Front-end | Estudante de Sistemas de Computação - UESPI
 
 <div align="center">
