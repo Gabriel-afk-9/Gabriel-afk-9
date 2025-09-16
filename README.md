@@ -33,7 +33,7 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ## 🚀 Atualmente Aprendendo
 - **Frontend Avançado:** Next.js, React, TypeScript e JavaScript avançado, Design responsivo  
-- **Backend em Aprofundamento:** Node.js, Python (FastAPI/Django), MySQL, PostgreSQL, SQLite  
+- **Backend em Aprofundamento:** Node.js, Python (Django), MySQL, PostgreSQL, SQLite, API REST/EXPRESS  
 
 ---
 
