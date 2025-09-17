@@ -39,7 +39,7 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=SEU_TOKEN)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-afk-9&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
