@@ -15,7 +15,15 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
   
 ### 📌 **Objetivos:**
  Meu objetivo é contribuir para projetos desafiadores que impactem positivamente os usuários, colaborar com outros desenvolvedores trocando conhecimentos e boas práticas, e evoluir minhas habilidades técnicas e interpessoais para me tornar um profissional mais completo.
- 
+
+### 🚀 **Projetos**
+- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
+- [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
+
+### 📚 **Registro de Aprendizado**
+- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
+- [Trabalho de Programaçao WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação
+
 ## 🛠️ Tech Stack
 ### 🔹 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +39,7 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ---
 
-## 🚀 Atualmente Aprendendo
+## 🌱 Atualmente Aprendendo
 - **Frontend Avançado:** Next.js, React, TypeScript e JavaScript avançado, Design responsivo  
 - **Backend em Aprofundamento:** Node.js, Python (Django), MySQL, PostgreSQL, SQLite, API REST/EXPRESS  
 
