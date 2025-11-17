@@ -27,7 +27,7 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ## 🛠️ Tech Stack
 ### 🔹 Frontend
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" alt="Tech Stack" />
 </div>
 
