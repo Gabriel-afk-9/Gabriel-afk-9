@@ -22,7 +22,8 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ### 📚 **Registro de Aprendizado**
 - [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
-- [Trabalho de Programaçao WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação
+- [1° Trabalho de Programaçao WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | Desenvolver uma página web institucional, semântica e responsiva para a "Feira de Ciências e Inovação"
+- [2° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-2-pweb) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web responsiva capaz de consumir dados de uma API REST pública
 
 ## 🛠️ Tech Stack
 ### 🔹 Frontend
@@ -31,17 +32,43 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🔹 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🔹 Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔹 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+### 🔹 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 🌱 Atualmente Aprendendo
-- **Frontend Avançado:** Next.js, React, TypeScript e JavaScript avançado, Design responsivo  
-- **Backend em Aprofundamento:** Node.js, Python (Django), MySQL, PostgreSQL, SQLite, API REST/EXPRESS  
+## 🌱 Atualmente Aprendendo & Aprimorando
+
+Estou focado em elevar o nível das minhas aplicações fullstack, explorando arquiteturas mais robustas e performance.
+
+- ⚛️ **Ecossistema React Moderno:** Aprofundando em **Next.js** (SSR/SSG) e **TypeScript** para criar interfaces escaláveis e tipadas, além de explorar gerenciamento de estado complexo.
+- 🔙 **Backend & Arquitetura:** Indo além do básico em **Node.js** e **Django**, focando em construção de **APIs RESTful** seguras, otimização de queries em **PostgreSQL/MySQL** e boas práticas de Design Patterns.
+- 🎨 **UI/UX Refinado:** Melhorando a fidelidade de designs responsivos e micro-interações para elevar a experiência do usuário.
 
 ---
 
