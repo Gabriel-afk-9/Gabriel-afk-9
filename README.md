@@ -9,21 +9,7 @@
 ## 💻 Sobre Mim
 Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse também em backend. Busco aprender sempre, criar projetos práticos e evoluir minhas habilidades técnicas e interpessoais.
 
-- 📚 **Estudante dedicado** na UESPI  
-- 🎯 **Focado em interfaces incríveis** e eficientes  
-- 🧩 **Resolução de problemas** e código limpo  
-  
-### 📌 **Objetivos:**
- Meu objetivo é contribuir para projetos desafiadores que impactem positivamente os usuários, colaborar com outros desenvolvedores trocando conhecimentos e boas práticas, e evoluir minhas habilidades técnicas e interpessoais para me tornar um profissional mais completo.
-
-### 🚀 **Projetos**
-- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
-- [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
-
-### 📚 **Registro de Aprendizado**
-- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
-- [1° Trabalho de Programaçao WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | Desenvolver uma página web institucional, semântica e responsiva para a "Feira de Ciências e Inovação"
-- [2° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-2-pweb) - Este projeto é parte da 2ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web responsiva capaz de consumir dados de uma API REST pública
+---
 
 ## 🛠️ Tech Stack
 ### 🔹 Frontend
@@ -53,13 +39,28 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ---
 
+### 🚀 **Projetos**
+- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
+- [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
+
+---
+
+### 📚 **Registro de Aprendizado**
+- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
+- [1° Trabalho de Programaçao WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | Desenvolver uma página web institucional, semântica e responsiva para a "Feira de Ciências e Inovação".
+- [2° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-2-pweb) - Este projeto é parte da 2ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web responsiva capaz de consumir dados de uma API REST pública.
+- [3° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-3-pweb.git) - Este projeto é parte da 3ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web interativa, capaz de consumir dados da REST Countries API.
+
+---
+
+
 ## 🌱 Atualmente Aprendendo & Aprimorando
 
-Estou focado em elevar o nível das minhas aplicações fullstack, explorando arquiteturas mais robustas e performance.
+Aprimorando aplicações **fullstack** com foco em **arquitetura, performance e experiência do usuário**.
 
-- ⚛️ **Ecossistema React Moderno:** Aprofundando em **Next.js** (SSR/SSG) e **TypeScript** para criar interfaces escaláveis e tipadas, além de explorar gerenciamento de estado complexo.
-- 🔙 **Backend & Arquitetura:** Indo além do básico em **Node.js** e **Django**, focando em construção de **APIs RESTful** seguras, otimização de queries em **PostgreSQL/MySQL** e boas práticas de Design Patterns.
-- 🎨 **UI/UX Refinado:** Melhorando a fidelidade de designs responsivos e micro-interações para elevar a experiência do usuário.
+- ⚛️ **Frontend:** React moderno com **Next.js (SSR/SSG)** e **TypeScript**, explorando padrões de estado e escalabilidade.
+- 🔙 **Backend:** Desenvolvimento de **APIs RESTful** com **Node.js** e **Django**, boas práticas de arquitetura e otimização de bancos **PostgreSQL/MySQL**.
+- 🎨 **UI/UX:** Interfaces responsivas, micro-interações e atenção à experiência do usuário.
 
 ---
 
@@ -67,6 +68,8 @@ Estou focado em elevar o nível das minhas aplicações fullstack, explorando ar
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-afk-9&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
 
 ## 📫 Contato
 <div>
@@ -82,6 +85,8 @@ Estou focado em elevar o nível das minhas aplicações fullstack, explorando ar
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </div>
+
+---
 
 ## 💡 Filosofia
 > "Transformo 'não sei' em 'já domino' todos os dias."
