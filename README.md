@@ -1,4 +1,3 @@
-ajuste aqui:
 # 👋🏽 Olá, eu sou Gabriel Lima! 
 ### Frontend Developer | Backend Enthusiast | Sistemas de Computação - UESPI
 
@@ -81,15 +80,14 @@ Aprimorando aplicações **fullstack** com foco em **arquitetura, performance e 
 ---
 
 ## 📫 Contato
+
 <div>
   <a href="mailto:gabriellimatrabalho1@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  
   <a href="https://www.linkedin.com/in/gabriel-lima-62a376326" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  
   <a href="https://www.instagram.com/gabriellimadev" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
