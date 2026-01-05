@@ -55,14 +55,14 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ---
 
-### 🚀 **Projetos**
+## 🚀 **Projetos**
 
 - [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
 - [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
 
 ---
 
-### 📚 **Registro de Aprendizado**
+## 📚 **Registro de Aprendizado**
 
 - [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
 - [1° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | Desenvolver uma página web institucional, semântica e responsiva para a "Feira de Ciências e Inovação".
