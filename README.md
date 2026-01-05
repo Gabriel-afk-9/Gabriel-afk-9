@@ -43,14 +43,14 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/dark/0-profile-details.svg" height="150" alt="Stats" />
-  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/dark/1-repos-per-language.svg" height="150" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/0-profile-details.svg" height="150" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/1-repos-per-language.svg" height="150" alt="Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/dark/2-most-commit-language.svg" height="150" alt="Commits" />
-  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/dark/3-stats.svg" height="150" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/2-most-commit-language.svg" height="150" alt="Commits" />
+  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/3-stats.svg" height="150" alt="Contribution Graph" />
 </div>
 
 ---
