@@ -63,17 +63,16 @@ Aprimorando aplicações **fullstack** com foco em **arquitetura, performance e 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/Gabriel-afk-9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Gabriel-afk-9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-afk-9&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/solarized/0-profile-details.svg" height="150" alt="Stats" />
+  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/solarized/1-repos-per-language.svg" height="150" alt="Languages" />
+  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/solarized/2-most-commit-language.svg" height="150" alt="Commits" />
 </div>
+
 <div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-afk-9&theme=dracula" alt="Gabriel-afk-9" />
+  <br/>
+  <img src="https://github.com/Gabriel-afk-9/Gabriel-afk-9/blob/main/profile-summary-card-output/solarized/3-stats.svg" alt="Contribution Graph" />
 </div>
 
 ---
