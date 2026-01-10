@@ -49,6 +49,8 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 <div align="center">
   <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="500"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" width="500"/>
   <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/3-stats.svg" height="150" alt="Contribution Graph" />
 </div>
 
