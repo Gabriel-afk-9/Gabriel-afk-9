@@ -49,7 +49,7 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/2-most-commit-language.svg" height="150" alt="Commits" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/3-stats.svg" height="150" alt="Contribution Graph" />
 </div>
 
