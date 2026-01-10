@@ -15,21 +15,40 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 ## 🛠️ Tech Stack
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=dark&perline=4" />
+
+</td>
+<td width="50%" align="center">
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,py,django,postgres,mysql,mongodb,sqlite&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,django,postgres,mysql,mongodb,sqlite&theme=dark&perline=4" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 ### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma&theme=dark&perline=3" />
+
+</td>
+<td width="50%" align="center">
 
 ### Mobile
+<br/>
 <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" />
+<br/>
 
+</td>
+</tr>
+</table>
 </div>
-
 ---
 
 ## 📊 GitHub Stats
