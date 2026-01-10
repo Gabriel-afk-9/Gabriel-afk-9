@@ -1,4 +1,3 @@
-deixe a parte de tech stack mais oorganizado:
 # 👋🏽 Olá, eu sou Gabriel Lima! 
 ### Frontend Developer | Backend Enthusiast | Sistemas de Computação - UESPI
 
@@ -19,22 +18,22 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 <tr>
 <td width="25%" align="center">
 
-### 🎨 Frontend
+### Frontend
 
 </td>
 <td width="25%" align="center">
 
-### 🔙 Backend & DB
+### Backend & DB
 
 </td>
 <td width="25%" align="center">
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 
 </td>
 <td width="25%" align="center">
 
-### 📱 Mobile
+### Mobile
 
 </td>
 </tr>
