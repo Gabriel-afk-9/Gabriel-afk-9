@@ -1,3 +1,4 @@
+deixe a parte de tech stack mais oorganizado:
 # 👋🏽 Olá, eu sou Gabriel Lima! 
 ### Frontend Developer | Backend Enthusiast | Sistemas de Computação - UESPI
 
@@ -13,29 +14,20 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ## 🛠️ Tech Stack
 
-### 🔹 Frontend
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" alt="Tech Stack" />
-</div>
+<div align="center">
 
-### 🔹 Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,django" alt="Tech Stack" />
-</div>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=dark&perline=7" />
 
-### 🔹 Banco de Dados
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Tech Stack" />
-</div>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,py,django,postgres,mysql,mongodb,sqlite&theme=dark&perline=7" />
 
-### 🔹 Tools & DevOps
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma&perline=11" alt="Tech Stack" />
-</div>
+### Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma&theme=dark&perline=6" />
 
-### 🔹 Mobile
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter,react&perline=5" alt="Tech Stack" />
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" />
+
 </div>
 
 ---
