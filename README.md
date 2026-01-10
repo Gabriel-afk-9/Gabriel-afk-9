@@ -50,7 +50,6 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 <div align="center">
   <br/>
   <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/0-profile-details.svg" height="150" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/1-repos-per-language.svg" height="150" alt="Languages" />
   <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/dark/3-stats.svg" height="150" alt="Contribution Graph" />
 </div>
 
