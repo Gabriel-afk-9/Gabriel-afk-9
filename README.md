@@ -17,38 +17,41 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite&theme=dark&perline=4" />
-
-</td>
-<td width="50%" align="center">
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,py,django,postgres,mysql,mongodb,sqlite&theme=dark&perline=4" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=1" />
 
 </td>
-</tr>
+<td width="25%" align="center">
 
-<tr>
-<td width="50%" align="center">
-
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,figma&theme=dark&perline=3" />
+### 🔙 Backend & DB
+<img src="https://skillicons.dev/icons?i=nodejs,py,django&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark&perline=1" />
 
 </td>
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-### Mobile
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=vercel,vscode,figma&theme=dark&perline=3" />
+
+</td>
+<td width="25%" align="center">
+
+### 📱 Mobile
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" />
-<br/>
+<br/><br/>
 
 </td>
 </tr>
 </table>
 </div>
+
 ---
 
 ## 📊 GitHub Stats
