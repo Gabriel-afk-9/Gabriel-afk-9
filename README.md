@@ -101,17 +101,6 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 
 ---
 
-
-## 🌱 Atualmente Aprendendo & Aprimorando
-
-Aprimorando aplicações **fullstack** com foco em **arquitetura, performance e experiência do usuário**.
-
-- ⚛️ **Frontend:** React moderno com **Next.js (SSR/SSG)** e **TypeScript**, explorando padrões de estado e escalabilidade.
-- 🔙 **Backend:** Desenvolvimento de **APIs RESTful** com **Node.js** e **Django**, boas práticas de arquitetura e otimização de bancos **PostgreSQL/MySQL**.
-- 🎨 **UI/UX:** Interfaces responsivas, micro-interações e atenção à experiência do usuário.
-
----
-
 ## 📫 Contato
 
 <div>
