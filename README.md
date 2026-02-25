@@ -9,7 +9,6 @@
 ## 💻 Sobre Mim
 Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse também em backend. Busco aprender sempre, criar projetos práticos e evoluir minhas habilidades técnicas e interpessoais.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -68,29 +67,41 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 </table>
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="400"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" width="400"/>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="400" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" width="400" alt="Top Languages" />
+  </picture>
+</div> <div align="center">
+    
+
+  <picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/0-profile-details.svg" />
+    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/0-profile-details.svg" height="150" alt="Profile Details" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/3-stats.svg" height="150" alt="Contribution Graph" />
+  </picture>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/radical/0-profile-details.svg" height="150" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/radical/3-stats.svg" height="150" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🚀 **Projetos**
 
 - [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
 - [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
 
----
 
 ## 📚 **Registro de Aprendizado**
 
@@ -99,7 +110,6 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 - [2° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-2-pweb) - Este projeto é parte da 2ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web responsiva capaz de consumir dados de uma API REST pública.
 - [3° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-3-pweb.git) - Este projeto é parte da 3ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web interativa, capaz de consumir dados da REST Countries API.
 
----
 
 ## 📫 Contato
 
@@ -115,7 +125,6 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
   </a>
 </div>
 
----
 
 ## 💡 Filosofia
 > "Transformo 'não sei' em 'já domino' todos os dias."
