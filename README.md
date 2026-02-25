@@ -71,30 +71,35 @@ Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse tamb
 ## 📊 GitHub Stats
 
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" width="400" alt="GitHub Stats" />
-  </picture>
+  <!-- GitHub Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light )" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=default&hide_border=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117" width="400" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=default&hide_border=true" width="400" alt="GitHub Stats">
   </picture>
-</div> <div align="center">
-    
 
+  <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/0-profile-details.svg" />
-    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/0-profile-details.svg" height="150" alt="Profile Details" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/3-stats.svg" />
-    <source media="(prefers-color-scheme: light )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/3-stats.svg" />
-    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/3-stats.svg" height="150" alt="Contribution Graph" />
+    <source media="(prefers-color-scheme: dark )" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=default&hide_border=true" width="400" alt="Top Languages">
   </picture>
 </div>
+
+<div align="center">
+    
+
+  <!-- Profile Details -->
+  <picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/0-profile-details.svg" height="150" alt="Profile Details">
+  </picture>
+
+  <!-- Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/3-stats.svg" height="150" alt="Contribution Graph">
+  </picture>
+</div>
+
 
 
 ## 🚀 **Projetos**
