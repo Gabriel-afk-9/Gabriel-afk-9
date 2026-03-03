@@ -42,14 +42,12 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3" />
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=vite&theme=dark&perline=1" />
 
 </td>
 <td width="25%" align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,py,django&theme=dark&perline=3" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark&perline=1" />
 
 </td>
 <td width="25%" align="center">
