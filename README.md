@@ -7,7 +7,7 @@
 </div>
 
 ## 💻 Sobre Mim
-Sou apaixonado por **tecnologia e desenvolvimento frontend**, com interesse também em backend. Busco aprender sempre, criar projetos práticos e evoluir minhas habilidades técnicas e interpessoais.
+Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender sempre, criar projetos práticos e evoluir minhas habilidades técnicas e interpessoais.
 
 
 ## 🛠️ Tech Stack
