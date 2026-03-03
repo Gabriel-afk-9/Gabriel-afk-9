@@ -1,5 +1,5 @@
 # 👋🏽 Olá, eu sou Gabriel Lima! 
-### Frontend Developer | Backend Enthusiast | Sistemas de Computação - UESPI
+### Backend Enthusiast | Sistemas de Computação - UESPI
 
 
 <div align="center">
