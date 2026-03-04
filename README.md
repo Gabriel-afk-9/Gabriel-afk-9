@@ -96,7 +96,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 
 ## 🚀 **Projetos**
-
+- [Sistema de Almoxarifado](https://github.com/Gabriel-afk-9/stock-control.git) - Sistema para gerenciamento de almoxarifado
 - [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
 - [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
 
