@@ -81,17 +81,17 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 
 ## 🚀 **Projetos**
-- [Sistema de Almoxarifado](https://github.com/Gabriel-afk-9/stock-control.git) - Sistema para gerenciamento de almoxarifado
-- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras
-- [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Sistema com o objetivo de simular e visualizar o funcionamento dos algoritmos de escalonamento de processos
+- [Sistema de Almoxarifado](https://github.com/Gabriel-afk-9/stock-control.git) - Sistema para gerenciamento de estoque.
+- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras.
+- [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Aplicação para simular e visualizar algoritmos de escalonamento de processos.
 
 
 ## 📚 **Registro de Aprendizado**
 
-- [GdF – Gerenciamento de Filas (Prova de POO, ED e BD)](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
-- [1° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Este projeto é parte da 1ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | Desenvolver uma página web institucional, semântica e responsiva para a "Feira de Ciências e Inovação".
-- [2° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-2-pweb) - Este projeto é parte da 2ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web responsiva capaz de consumir dados de uma API REST pública.
-- [3° Trabalho de Programação WEB](https://github.com/Gabriel-afk-9/aval-3-pweb.git) - Este projeto é parte da 3ª Avaliação da disciplina de Programação Web, do curso de Tecnologia em Sistemas de Computação | O objetivo principal é desenvolver uma aplicação Web interativa, capaz de consumir dados da REST Countries API.
+- [GdF – Gerenciamento de Filas](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
+- [Programação WEB I](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Página web institucional responsiva desenvolvida com HTML, CSS e boas práticas semânticas para a "Feira de Ciências e Inovação".
+- [Programação WEB II](https://github.com/Gabriel-afk-9/aval-2-pweb) - Aplicação Web responsiva capaz de consumir dados de uma API REST pública.
+- [Programação WEB III](https://github.com/Gabriel-afk-9/aval-3-pweb.git) - Aplicação Web interativa, capaz de consumir dados da REST Countries API.
 
 
 ## 📫 Contato
