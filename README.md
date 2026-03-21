@@ -68,7 +68,6 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 ## 📊 GitHub Stats
 
-# nodejs-api-rest
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="400" />
 
