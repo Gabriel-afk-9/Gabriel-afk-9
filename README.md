@@ -68,29 +68,15 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 ## 📊 GitHub Stats
 
+# nodejs-api-rest
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=default&hide_border=true" width="400" alt="GitHub Stats">
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="400" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=default&hide_border=true" width="400" alt="Top Languages">
-  </picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="350" />
 </div>
 
 <div align="center">
-    
-  <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/0-profile-details.svg" height="150" alt="Profile Details">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark )" srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/main/profile-summary-card-output/default/3-stats.svg" height="150" alt="Contribution Graph">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Gabriel-afk-9&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" />
 </div>
 
 
