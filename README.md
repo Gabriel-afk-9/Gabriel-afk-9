@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FFD700&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Gabriel+Lima!;Full+Stack+Developer;Construindo+soluções+escaláveis" />
 </h1>
-### Full Stack | Sistemas de Computação - UESPI
+## Full Stack | Sistemas de Computação - UESPI
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
