@@ -34,7 +34,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 </td>
 <td width="25%" align="center">
 
-### Mobile
+### Mobile & GameDev
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 </td>
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=flutter,react,godot&theme=dark&perline=3" />
 
 </td>
 </tr>
