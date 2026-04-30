@@ -83,6 +83,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 
 ## 🚀 **Projetos**
+- [Letra a Letra Godot](http://github/Gabriel-afk-9/Letra-a-Letra-GODOT) - Cliente desenvolvido em Godot 4 para o jogo Letra a Letra.
 - [Sistema de Almoxarifado](https://github.com/Gabriel-afk-9/stock-control.git) - Sistema para gerenciamento de estoque.
 - [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras.
 - [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Aplicação para simular e visualizar algoritmos de escalonamento de processos.
