@@ -48,7 +48,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 </td>
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,py,django&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,py&theme=dark&perline=3" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" />
 
 </td>
