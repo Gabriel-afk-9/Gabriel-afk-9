@@ -60,7 +60,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 </td>
 <td width="25%" align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,react,godot&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=flutter,godot&theme=dark&perline=3" />
 
 </td>
 </tr>
