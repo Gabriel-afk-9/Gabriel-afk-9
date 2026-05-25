@@ -77,7 +77,7 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabriel-afk-9&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=Gabriel-afk-9&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" width="400" />
 </div>
 
 
