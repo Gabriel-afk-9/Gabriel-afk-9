@@ -114,3 +114,27 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 ## 💡 Filosofia
 > "Transformo 'não sei' em 'já domino' todos os dias."
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Gabriel-afk-9&color=yellow" 
+    alt="Views no Perfil"
+  />
+</p>
+
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/output/github-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/output/github-snake.svg"
+    />
+    <img 
+      alt="github-snake" 
+      src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/output/github-snake.svg"
+    />
+  </picture>
+</div>
