@@ -97,16 +97,16 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 
 ## 📫 Contato
 
-<div>
-  <a href="mailto:gabriellimatrabalho1@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-lima-62a376326" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/gabriellimadev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
+<div align="center">
+  <a href="mailto:gabriellimatrabalho1@gmail.com">
+    <img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-lima-62a376326" target="_blank">
+    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gabriellimadev" target="_blank">
+    <img src="https://img.shields.io/badge/%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 
