@@ -104,21 +104,6 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-afk-9&bg_color=0D1117&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph/?username=Gabriel-afk-9&bg_color=0D1117&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-
-</div>
-
 
 ## 📫 Contato
 
