@@ -1,15 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=FFD700&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Gabriel+Lima!;Full+Stack+Developer;Construindo+soluções+escaláveis" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=4000&color=FFD700&center=true&vCenter=true&width=900&lines=Ol%C3%A1,+eu+sou+Gabriel+Lima!;Full+Stack+Developer+%26+Game+Dev;PYTHON+%E2%80%A2+TYPESCRIPT+%E2%80%A2+NEXT.JS+%E2%80%A2+GODOT" />
 </h1>
 
 ### Full Stack | Sistemas de Computação - UESPI
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 ## 💻 Sobre Mim
-Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender sempre, criar projetos práticos e evoluir minhas habilidades técnicas e interpessoais.
+Sou estudante de Sistemas de Computação na UESPI e desenvolvedor **Full Stack**, com interesse em arquitetura de software, desenvolvimento de jogos e criação de produtos.
+
+Gosto de transformar ideias em projetos reais, buscando escrever código organizado, escalável e fácil de manter. Atualmente, também estou à frente do desenvolvimento do **Letra a Letra** pela **Arvenis**, explorando desenvolvimento multiplayer e game development com Godot.
 
 
 ## 🛠️ Tech Stack
@@ -68,31 +70,48 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
 </div>
 
 
+## 🚀 **Projetos**
+| Projeto | Descrição | Tecnologias |
+|----------|-----------|-------------|
+| **Letra a Letra** | Jogo multiplayer competitivo em desenvolvimento pela Arvenis. | Java • Spring Boot • Godot • PostgreSQL • Redis • WebSocket |
+| **Stock Control** | Sistema para gerenciamento de estoque. | Next.js • Typescript • PrismaORM |
+| **Simulador de escalonamento de processos(FIFO & SJF)** | Aplicação para simular e visualizar algoritmos de escalonamento de processos. | Next.js • Typescript |
+
+
+
+# <img src="./assets/arvenis.png" width="12%" align="center"/> Arvenis Studio
+
+A **Arvenis** é um estúdio independente de desenvolvimento de jogos criado para transformar ideias em experiências divertidas, criativas e bem construídas.
+
+Sou **cofundador** do estúdio e atualmente lidero o desenvolvimento de **Letra a Letra**, nosso primeiro projeto, enquanto exploramos novas ideias e futuros projetos.
+
+Nosso propósito é transformar boas ideias em experiências marcantes, unindo criatividade, tecnologia e paixão por jogos.
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF" width="350" />
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="350" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"
+    width="350"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF"
+    width="350"
+  />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabriel-afk-9&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" width="400" />
+
+  <img
+    src="https://streak-stats.demolab.com?user=Gabriel-afk-9&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF"
+    width="400"
+  />
+
 </div>
-
-
-## 🚀 **Projetos**
-- [Letra a Letra Godot](https://github.com/Gabriel-afk-9/Letra-a-Letra-GODOT) - Cliente desenvolvido em Godot 4 para o jogo Letra a Letra.
-- [Sistema de Almoxarifado](https://github.com/Gabriel-afk-9/stock-control.git) - Sistema para gerenciamento de estoque.
-- [Letra a Letra](https://github.com/Zidan-09/Letra-a-Letra.git) - Jogo multiplayer competitivo com inspiração em batalha naval e caça-palavras.
-- [Simulador de escalonamento de processos(FIFO & SJF)](https://github.com/Gabriel-afk-9/fifo-sjf-scheduler.git) - Aplicação para simular e visualizar algoritmos de escalonamento de processos.
-
-## 📚 **Registro de Aprendizado**
-
-- [GdF – Gerenciamento de Filas](https://github.com/Zidan-09/ProjetoInterdiciplinar_GdF.git) - Sistema para organizar filas em pronto-socorros
-- [Programação WEB I](https://github.com/Gabriel-afk-9/trabalho-programacao-web.git) - Página web institucional responsiva desenvolvida com HTML, CSS e boas práticas semânticas para a "Feira de Ciências e Inovação".
-- [Programação WEB II](https://github.com/Gabriel-afk-9/aval-2-pweb) - Aplicação Web responsiva capaz de consumir dados de uma API REST pública.
-- [Programação WEB III](https://github.com/Gabriel-afk-9/aval-3-pweb.git) - Aplicação Web interativa, capaz de consumir dados da REST Countries API.
 
 
 ## 📫 Contato
@@ -107,10 +126,13 @@ Sou apaixonado por **tecnologia e desenvolvimento de software**. Busco aprender 
   <a href="https://www.instagram.com/gabriellimadev" target="_blank">
     <img src="https://img.shields.io/badge/%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.github.com/Gabriel-afk-9" target="_blank">
+    <img src="https://img.shields.io/badge/%20Github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
+---
 
-## 💡 Filosofia
 > "Transformo 'não sei' em 'já domino' todos os dias."
 
 <p align="center">
