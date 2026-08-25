@@ -92,24 +92,7 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"
-    width="350"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF"
-    width="350"
-  />
-
-</div>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=Gabriel-afk-9&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF"
-    width="400"
-  />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
