@@ -92,28 +92,21 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 
 <div align="center">
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=Gabriel-afk-9&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF"
-    width="350"
-    alt="GitHub Stats"
-  />
+<img src="./profile/stats.svg" width="350" alt="GitHub Stats" />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-afk-9&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF"
-    width="350"
-    alt="Top Languages"
-  />
+<img src="./profile/top-langs.svg" width="350" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-  <img
-    src="./profile/streak.svg"
-    width="400"
-    alt="GitHub Streak"
-  />
+<img src="./profile/streak.svg" width="400" alt="GitHub Streak" />
 
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-afk-9&bg_color=0D1117&color=FFFFFF&line=FFD700&point=FFD700&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
