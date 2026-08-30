@@ -74,7 +74,7 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 | Projeto | Descrição | Tecnologias |
 |----------|-----------|-------------|
 | **Letra a Letra** | Jogo multiplayer competitivo em desenvolvimento pela Arvenis. | Java • Spring Boot • Godot • PostgreSQL • Redis • WebSocket |
-| **Stock Control** | Sistema para gerenciamento de estoque. | Next.js • Typescript • PrismaORM |
+| **Estocai** | Sistema para gerenciamento de estoque. | Next.js • Typescript • PrismaORM |
 | **Simulador de escalonamento de processos(FIFO & SJF)** | Aplicação para simular e visualizar algoritmos de escalonamento de processos. | Next.js • Typescript |
 
 
