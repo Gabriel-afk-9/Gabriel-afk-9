@@ -9,17 +9,17 @@
   />
 </h1>
 
-### Sistemas de Computação - UESPI
-
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
 </div>
 
 ## 💻 Sobre Mim
-Sou estudante de Sistemas de Computação na UESPI e desenvolvedor **Full Stack**, com interesse em arquitetura de software, desenvolvimento de jogos e criação de produtos.
+Sou estudante de Sistemas de Computação na UESPI e desenvolvedor **Full-Stack**, com interesse em arquitetura de software, desenvolvimento de jogos e criação de produtos.
 
 Gosto de transformar ideias em projetos reais, buscando escrever código organizado, escalável e fácil de manter. Atualmente, também estou à frente do desenvolvimento do **Letra a Letra** pela **Arvenis**, explorando desenvolvimento multiplayer e game development com Godot.
 
+<br>
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -76,6 +76,8 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 </table>
 </div>
 
+<br>
+<br>
 
 ## 🚀 **Projetos**
 | Projeto | Descrição | Tecnologias |
@@ -84,7 +86,8 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 | **Estocai** | Sistema para gerenciamento de estoque. | Next.js • Typescript • PrismaORM |
 | **Simulador de escalonamento de processos(FIFO & SJF)** | Aplicação para simular e visualizar algoritmos de escalonamento de processos. | Next.js • Typescript |
 
-
+<br>
+<br>
 
 # <img src="./assets/arvenis.png" width="12%" align="center"/> Arvenis Studio
 
@@ -94,6 +97,8 @@ Sou **cofundador** do estúdio e atualmente lidero o desenvolvimento de **Letra 
 
 Nosso propósito é transformar boas ideias em experiências marcantes, unindo criatividade, tecnologia e paixão por jogos.
 
+<br>
+<br>
 
 ## 📊 GitHub Stats
 
@@ -111,6 +116,8 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 
 </div>
 
+<br>
+<br>
 
 ## 📫 Contato
 
@@ -129,7 +136,8 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
   </a>
 </div>
 
----
+<br>
+<br>
 
 <p align="center">
   <img 
