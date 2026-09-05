@@ -1,8 +1,15 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ca8a04,100:facc15&height=280&section=header&text=Hi,%20I'm%20Gabriel Lima&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Python%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&descFontColor=facc15&stroke=facc15&strokeWidth=1" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=4000&color=FFD700&center=true&vCenter=true&width=900&lines=Ol%C3%A1,+eu+sou+Gabriel+Lima!;Full+Stack+Developer+%26+Game+Dev;PYTHON+%E2%80%A2+TYPESCRIPT+%E2%80%A2+NEXT.JS+%E2%80%A2+GODOT" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%26+Game+Developer;Building+Scalable+%26+Decoupled+Systems;TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+Godot;Co-Founder+%40+Arvenis+Studio"
+    alt="Typing SVG"
+  />
 </h1>
 
-### Full Stack | Sistemas de Computação - UESPI
+### Sistemas de Computação - UESPI
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
@@ -51,7 +58,7 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 <td width="25%" align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,py&theme=dark&perline=3" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark&perline=3" />
 
 </td>
 <td width="25%" align="center">
@@ -124,8 +131,6 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 
 ---
 
-> "Transformo 'não sei' em 'já domino' todos os dias."
-
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Gabriel-afk-9&color=yellow" 
@@ -148,4 +153,7 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
       src="https://raw.githubusercontent.com/Gabriel-afk-9/Gabriel-afk-9/output/github-snake.svg"
     />
   </picture>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&text=%22Transformo+'não+sei'+em+'já+domino'+todos+os+dias.%22&fontSize=15&fontColor=ffffff&fontAlignY=68&reversal=true" />
 </div>
