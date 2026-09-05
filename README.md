@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ca8a04,100:facc15&height=250&section=header&text=Hi%2C%20I'm%20Gabriel%20Lima&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Python%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&descFontColor=facc15&stroke=facc15&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ca8a04,100:facc15&height=240&section=header&text=Hi%2C%20I'm%20Gabriel%20Lima&fontSize=50&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Python%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&descFontColor=facc15&stroke=facc15&strokeWidth=1" width="100%" />
 
 <h1 align="center">
   <img
@@ -19,6 +19,9 @@ Sou estudante de Sistemas de Computação na UESPI e desenvolvedor **Full-Stack*
 Gosto de transformar ideias em projetos reais, buscando escrever código organizado, escalável e fácil de manter. Atualmente, também estou à frente do desenvolvimento do **Letra a Letra** pela **Arvenis**, explorando desenvolvimento multiplayer e game development com Godot.
 
 <br>
+
+---
+
 <br>
 
 ## 🛠️ Tech Stack
@@ -77,6 +80,9 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 </div>
 
 <br>
+
+---
+
 <br>
 
 ## 🚀 **Projetos**
@@ -87,6 +93,9 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 | **Simulador de escalonamento de processos(FIFO & SJF)** | Aplicação para simular e visualizar algoritmos de escalonamento de processos. | Next.js • Typescript |
 
 <br>
+
+---
+
 <br>
 
 # <img src="./assets/arvenis.png" width="12%" align="center"/> Arvenis Studio
@@ -98,6 +107,9 @@ Sou **cofundador** do estúdio e atualmente lidero o desenvolvimento de **Letra 
 Nosso propósito é transformar boas ideias em experiências marcantes, unindo criatividade, tecnologia e paixão por jogos.
 
 <br>
+
+---
+
 <br>
 
 ## 📊 GitHub Stats
@@ -117,6 +129,9 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 </div>
 
 <br>
+
+---
+
 <br>
 
 ## 📫 Contato
@@ -137,6 +152,9 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 </div>
 
 <br>
+
+---
+
 <br>
 
 <p align="center">
