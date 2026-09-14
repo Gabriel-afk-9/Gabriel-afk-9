@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=4000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%26+Game+Developer;Building+Scalable+%26+Decoupled+Systems;TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+Godot;Co-Founder+%40+Arvenis+Studio"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%26+Game+Developer;Building+Scalable+%26+Decoupled+Systems;TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+Godot;Co-Founder+%40+Arvenis+Studio"
     alt="Typing SVG"
   />
 </h1>
@@ -158,5 +158,5 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
   </picture>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&text=%22Transformo+'não+sei'+em+'já+domino'+todos+os+dias.%22&fontSize=25&fontColor=ffffff&fontAlignY=68&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&text=%22Transformo+'não+sei'+em+'já+domino'+todos+os+dias.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&reversal=true" />
 </div>
