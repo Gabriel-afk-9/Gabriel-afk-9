@@ -25,10 +25,10 @@
 </div>
 
 ## 💻 Sobre Mim
-Sou estudante de Sistemas de Computação na UESPI e desenvolvedor **Full-Stack**, com interesse em arquitetura de software, desenvolvimento de jogos e criação de produtos.
-
-Gosto de transformar ideias em projetos reais, buscando escrever código organizado, escalável e fácil de manter. Atualmente, também estou à frente do desenvolvimento do **Letra a Letra** pela **Arvenis**, explorando desenvolvimento multiplayer e game development com Godot.
-
+<p align="justify">
+Sou estudante de Sistemas de Computação na UESPI e desenvolvedor <strong>Full-Stack</strong>, com foco em desenvolvimento de aplicações, arquitetura de software, desenvolvimento de jogos e criação de produtos.
+Tenho interesse em construir sistemas organizados, escaláveis e desacoplados, buscando aplicar boas práticas de engenharia de software nos projetos que desenvolvo. Também atuo no desenvolvimento de jogos com Godot e sou cofundador da <strong>Arvenis Studio</strong>, onde atualmente lidero o desenvolvimento do nosso primeiro projeto multiplayer, <strong>Letra a Letra</strong>.
+</p>
 
 
 ## 🛠️ Tech Stack
@@ -99,12 +99,14 @@ Gosto de transformar ideias em projetos reais, buscando escrever código organiz
 
 # <img src="./assets/arvenis.png" width="12%" align="center"/> Arvenis Studio
 
-A **Arvenis** é um estúdio independente de desenvolvimento de jogos criado para transformar ideias em experiências divertidas, criativas e bem construídas.
-
-Sou **cofundador** do estúdio e atualmente lidero o desenvolvimento de **Letra a Letra**, nosso primeiro projeto, enquanto exploramos novas ideias e futuros projetos.
-
-Nosso propósito é transformar boas ideias em experiências marcantes, unindo criatividade, tecnologia e paixão por jogos.
-
+<p align="justify">
+A <strong>Arvenis Studio</strong> é um estúdio independente de desenvolvimento de jogos, criado com o propósito de transformar ideias em experiências interativas, divertidas e memoráveis.
+</p>
+<p align="justify">
+Como <strong>cofundador e desenvolvedor</strong>, atuo diretamente na criação dos nossos projetos, unindo desenvolvimento de software, arquitetura e <i>game development</i>.
+Atualmente, lidero o desenvolvimento do <strong>Letra a Letra</strong>, nosso primeiro projeto: um jogo multiplayer competitivo desenvolvido com <strong>Godot, Java, Spring Boot, PostgreSQL, Redis e WebSocket</strong>.
+<p align="justify">
+Mais do que desenvolver jogos, buscamos construir uma identidade própria e criar experiências que combinem <strong>criatividade, tecnologia e diversão</strong>.
 
 
 ## 📊 GitHub Stats
