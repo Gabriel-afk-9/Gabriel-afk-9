@@ -157,6 +157,6 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
     />
   </picture>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&text=%22Transformo+'não+sei'+em+'já+domino'+todos+os+dias.%22&fontSize=20&fontColor=ffffff&fontAlignY=68&reversal=true" />
+>>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&fontSize=20&fontColor=ffffff&fontAlignY=68&reversal=true" />
 </div>
