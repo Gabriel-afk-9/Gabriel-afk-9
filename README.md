@@ -151,6 +151,5 @@ Mais do que desenvolver jogos, buscamos construir uma identidade própria e cria
     />
   </picture>
 
->>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&fontSize=20&fontColor=ffffff&fontAlignY=68&reversal=true" />
 </div>
