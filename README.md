@@ -10,7 +10,18 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF">
+  <a href="mailto:gabriellimatrabalho1@gmail.com">
+    <img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-lima-62a376326" target="_blank">
+    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gabriellimadev" target="_blank">
+    <img src="https://img.shields.io/badge/%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.github.com/Gabriel-afk-9" target="_blank">
+    <img src="https://img.shields.io/badge/%20Github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ## 💻 Sobre Mim
@@ -110,25 +121,6 @@ Nosso propósito é transformar boas ideias em experiências marcantes, unindo c
 
 <img src="./profile/streak.svg" width="400" alt="GitHub Streak" />
 
-</div>
-
-
-
-## 📫 Contato
-
-<div align="center">
-  <a href="mailto:gabriellimatrabalho1@gmail.com">
-    <img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-lima-62a376326" target="_blank">
-    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gabriellimadev" target="_blank">
-    <img src="https://img.shields.io/badge/%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.github.com/Gabriel-afk-9" target="_blank">
-    <img src="https://img.shields.io/badge/%20Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <br>
