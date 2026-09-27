@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ca8a04,100:facc15&height=240&section=header&text=Hi%2C%20I'm%20Gabriel%20Lima&fontSize=50&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Python%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&descFontColor=facc15&stroke=facc15&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ca8a04,100:facc15&height=240&section=header&text=Hi%2C%20I'm%20Gabriel%20Lima&fontSize=50&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20TypeScript%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js%20%E2%80%A2%20Python%20%7C%20Clean%20Architecture&descAlignY=58&descSize=16&descFontColor=facc15&stroke=0d1117&strokeWidth=2" width="100%" />
 
 <h1 align="center">
   <img
@@ -30,6 +30,7 @@ Sou estudante de Sistemas de Computação na UESPI e desenvolvedor <strong>Full-
 Tenho interesse em construir sistemas organizados, escaláveis e desacoplados, buscando aplicar boas práticas de engenharia de software nos projetos que desenvolvo. Também atuo no desenvolvimento de jogos com Godot e sou cofundador da <strong>Arvenis Studio</strong>, onde atualmente lidero o desenvolvimento do nosso primeiro projeto multiplayer, <strong>Letra a Letra</strong>.
 </p>
 
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +87,7 @@ Tenho interesse em construir sistemas organizados, escaláveis e desacoplados, b
 </table>
 </div>
 
-
+<br>
 
 ## 🚀 **Projetos**
 | Projeto | Descrição | Tecnologias |
@@ -95,19 +96,31 @@ Tenho interesse em construir sistemas organizados, escaláveis e desacoplados, b
 | **Estocai** | Sistema para gerenciamento de estoque. | Next.js • Typescript • PrismaORM |
 | **Simulador de escalonamento de processos(FIFO & SJF)** | Aplicação para simular e visualizar algoritmos de escalonamento de processos. | Next.js • Typescript |
 
+<br>
 
+# Arvenis Studio
+<div align="center">
 
-# <img src="./assets/arvenis.png" width="12%" align="center"/> Arvenis Studio
+<img src="./assets/arvenis.png" width="10%" />
+
+<h3>Independent Game Development Studio</h3>
+
+<p>
+<strong>Co-Founder & Developer</strong>
+</p>
+
+</div>
 
 <p align="justify">
 A <strong>Arvenis Studio</strong> é um estúdio independente de desenvolvimento de jogos, criado com o propósito de transformar ideias em experiências interativas, divertidas e memoráveis.
 </p>
 <p align="justify">
 Como <strong>cofundador e desenvolvedor</strong>, atuo diretamente na criação dos nossos projetos, unindo desenvolvimento de software, arquitetura e <i>game development</i>.
-Atualmente, lidero o desenvolvimento do <strong>Letra a Letra</strong>, nosso primeiro projeto: um jogo multiplayer competitivo desenvolvido com <strong>Godot, Java, Spring Boot, PostgreSQL, Redis e WebSocket</strong>.
+Atualmente, lidero o desenvolvimento do <strong>Letra a Letra</strong>, nosso primeiro projeto: um jogo multiplayer competitivo .
 <p align="justify">
 Mais do que desenvolver jogos, buscamos construir uma identidade própria e criar experiências que combinem <strong>criatividade, tecnologia e diversão</strong>.
 
+<br>
 
 ## 📊 GitHub Stats
 
@@ -151,5 +164,5 @@ Mais do que desenvolver jogos, buscamos construir uma identidade própria e cria
     />
   </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&fontSize=20&fontColor=ffffff&fontAlignY=68&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,50:ca8a04,100:0d1117&height=140&section=footer&text=Transformo%20o%20%22n%C3%A3o%20sei%22%20em%20%22j%C3%A1%20domino%22todos%20os%20dias.&fontSize=20&fontColor=ffffff&stroke=0d1117&strokeWidth=1&fontAlignY=68&reversal=true" />
 </div>
