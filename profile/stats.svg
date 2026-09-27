@@ -110,17 +110,15 @@
         
 
         <rect
-          data-testid="card-bg"
-          class="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="466"
-          fill="#0D1117"
-            stroke-opacity="1"
-        />
+        x="0.5"
+        y="0.5"
+        width="466"
+        height="194"
+        rx="4.5"
+        fill="#0D1117"
+        stroke="#E4E2E2"
+        stroke-width="1"
+      />
 
         
       <g
